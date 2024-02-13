@@ -7,20 +7,10 @@ declare interface RouteInfo {
     class: string;
 }
 export const ROUTES: RouteInfo[] = [
+  { path: '/dashboard', title: 'Dashboard',  icon: 'design_app', class: '' },
   { path: '/players', title: 'Players',  icon: 'design_app', class: '' },
-  { path: '/clubs', title: 'Clubs',  icon: 'design_app', class: '' },
-  { path: '/competitions', title: 'Competitions',  icon: 'design_app', class: '' },
-
-    { path: '/dashboard', title: 'Dashboard',  icon: 'design_app', class: '' },
-    // { path: '/icons', title: 'Icons',  icon:'education_atom', class: '' },
-    // { path: '/maps', title: 'Maps',  icon:'location_map-big', class: '' },
-    // { path: '/notifications', title: 'Notifications',  icon:'ui-1_bell-53', class: '' },
-
-    { path: '/user-profile', title: 'User Profile',  icon:'users_single-02', class: '' },
-    // { path: '/table-list', title: 'Table List',  icon:'design_bullet-list-67', class: '' },
-    // { path: '/typography', title: 'Typography',  icon:'text_caps-small', class: '' },
-    // { path: '/upgrade', title: 'Upgrade to PRO',  icon:'objects_spaceship', class: 'active active-pro' }
-
+  { path: '/bar-chart-race', title: 'Bar Chart Race', icon: 'design_app', class: '' },
+  { path: '/user-profile', title: 'User Profile',  icon:'users_single-02', class: '' }
 ];
 
 @Component({
