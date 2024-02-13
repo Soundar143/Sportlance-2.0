@@ -3,9 +3,9 @@
     width: 100%;
     text-align: center;
     display: block;
-    color: #b8b8b8;
+    color: #000000;
     padding: 0 10px;
-    font-size: .7142em;
+    font-size: .900em;
     &:hover {
         text-decoration: underline;
         cursor: pointer;
