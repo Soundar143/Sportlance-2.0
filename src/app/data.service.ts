@@ -25,6 +25,10 @@ export class DataService {
 
   private penaltiesSaved = 'assets/data/penaltiesSaved.json';
 
+  private redCards = 'assets/data/redCards.json';
+
+  private yellowCards = 'assets/data/yellowCards.json';
+
   selectedPlayer: any[] = [];
 
   constructor(private http: HttpClient) { }
@@ -66,5 +70,13 @@ export class DataService {
 
   getPenaltiesSaved(): Observable<any> {
     return this.http.get(this.penaltiesSaved);
+  }
+
+  getYellowcards(): Observable<any> {
+    return this.http.get(this.yellowCards);
+  }
+
+  getRedcards(): Observable<any> {
+    return this.http.get(this.redCards);
   }
 }
