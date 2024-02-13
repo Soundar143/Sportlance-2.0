@@ -1,11 +1,23 @@
 import { Component, OnInit } from '@angular/core';
 import { DataService } from '../data.service';
 import { HttpClient } from '@angular/common/http';
+import { trigger, state, style, transition, animate } from '@angular/animations';
+
 
 @Component({
   selector: 'app-player',
   templateUrl: './player.component.html',
-  styleUrls: ['./player.component.css']
+  styleUrls: ['./player.component.css'],
+  animations: [
+    trigger('fadeInOut', [
+      state('void', style({
+        opacity: 0
+      })),
+      transition(':enter, :leave', [
+        animate(300)
+      ])
+    ])
+  ]
 })
 export class PlayerComponent implements OnInit {
 
@@ -155,7 +167,7 @@ export class PlayerComponent implements OnInit {
         ((element as HTMLElement).firstElementChild?.childNodes[1] as HTMLElement).setAttribute('style', 'visibility: visible;');
         ((element as HTMLElement).firstElementChild?.childNodes[0] as HTMLElement).setAttribute('style', 'visibility: visible;');
       })
-    }, 1000);
+    }, 2000);
   }
 
   getPlayersGoals(selectedValue: any) {

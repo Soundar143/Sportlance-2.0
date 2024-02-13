@@ -8,53 +8,94 @@
                     <h5 class="title">{{playerName['player']['name']}}</h5>
                 </div>
                 <div class="card-body">
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <div class="grid-item">
-                                <fusioncharts [width]="fusionChartObject.column3d.width"
-                                    [height]="fusionChartObject.column3d.height"
-                                    [type]="fusionChartObject.column3d.type"
-                                    [dataFormat]="fusionChartObject.column3d.dataFormat"
-                                    [dataSource]="goalsChartOptions">
-                                </fusioncharts>
+                    <div class="player-stats-container" [@fadeInOut]>
+                        <div class="player-image">
+                           <img alt="{{selectedData.player.name}}" [src]="selectedData.player.photo">
+                        </div>
+                        <div class="player-info">
+                            <div class="player-first-name value">
+                                <div class="player-first-name label">First Name:</div>
+                                {{selectedData.player.firstname}}
+                            </div>
+                            <div class="player-last-name value">
+                                <div class="player-last-name label">Last Name:</div>
+                                {{selectedData.player.lastname}}
+                            </div>
+                            <div class="player-age value">
+                                <div class="player-age label">Age:</div>
+                                {{selectedData.player.age}}
+                            </div>
+                            <div class="player-birth-date value">
+                                <div class="player-birth-date label">Birth Date:</div>
+                                {{selectedData.player.birth.date}}
+                            </div>
+                            <div class="player-birth-place value">
+                                <div class="player-birth-place label">Birth Place:</div>
+                                {{selectedData.player.birth.place}}
+                            </div>
+                            <div class="player-birth-country value">
+                                <div class="player-birth-country label">Birth Country:</div>
+                                {{selectedData.player.birth.country}}
+                            </div>
+                            <div class="player-height value">
+                                <div class="player-height label">Height:</div>
+                                {{selectedData.player.height}}
+                            </div>
+                            <div class="player-weight value">
+                                <div class="player-weight label">Weight:</div>
+                                {{ selectedData.player.weight}}
                             </div>
                         </div>
-                        <div class="col-sm-6">
-                            <div class="grid-item">
-                                <fusioncharts [width]="fusionChartObject.line.width"
-                                    [height]="fusionChartObject.line.height" [type]="fusionChartObject.line.type"
-                                    [dataFormat]="fusionChartObject.line.dataFormat"
-                                    [dataSource]="appearanceChartOptions">
-                                </fusioncharts>
+                    </div>
+                    <div>
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="grid-item">
+                                    <fusioncharts [width]="fusionChartObject.column3d.width"
+                                        [height]="fusionChartObject.column3d.height"
+                                        [type]="fusionChartObject.column3d.type"
+                                        [dataFormat]="fusionChartObject.column3d.dataFormat"
+                                        [dataSource]="goalsChartOptions">
+                                    </fusioncharts>
+                                </div>
                             </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="grid-item">
-                                <fusioncharts [width]="fusionChartObject.pie3d.width"
-                                    [height]="fusionChartObject.pie3d.height" [type]="fusionChartObject.pie3d.type"
-                                    [dataFormat]="fusionChartObject.pie3d.dataFormat"
-                                    [dataSource]="assistsChartOptions">
-                                </fusioncharts>
+                            <div class="col-sm-6">
+                                <div class="grid-item">
+                                    <fusioncharts [width]="fusionChartObject.line.width"
+                                        [height]="fusionChartObject.line.height" [type]="fusionChartObject.line.type"
+                                        [dataFormat]="fusionChartObject.line.dataFormat"
+                                        [dataSource]="appearanceChartOptions">
+                                    </fusioncharts>
+                                </div>
                             </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="grid-item">
-                                <fusioncharts [width]="fusionChartObject.mssplinearea.width"
-                                    [height]="fusionChartObject.mssplinearea.height"
-                                    [type]="fusionChartObject.mssplinearea.type"
-                                    [dataFormat]="fusionChartObject.mssplinearea.dataFormat"
-                                    [dataSource]="penaltiesChartOptions">
-                                </fusioncharts>
+                            <div class="col-sm-6">
+                                <div class="grid-item">
+                                    <fusioncharts [width]="fusionChartObject.pie3d.width"
+                                        [height]="fusionChartObject.pie3d.height" [type]="fusionChartObject.pie3d.type"
+                                        [dataFormat]="fusionChartObject.pie3d.dataFormat"
+                                        [dataSource]="assistsChartOptions">
+                                    </fusioncharts>
+                                </div>
                             </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="grid-item">
-                                <fusioncharts [width]="fusionChartObject.doughnut3d.width"
-                                    [height]="fusionChartObject.doughnut3d.height"
-                                    [type]="fusionChartObject.doughnut3d.type"
-                                    [dataFormat]="fusionChartObject.doughnut3d.dataFormat"
-                                    [dataSource]="cardsChartOptions">
-                                </fusioncharts>
+                            <div class="col-sm-6">
+                                <div class="grid-item">
+                                    <fusioncharts [width]="fusionChartObject.mssplinearea.width"
+                                        [height]="fusionChartObject.mssplinearea.height"
+                                        [type]="fusionChartObject.mssplinearea.type"
+                                        [dataFormat]="fusionChartObject.mssplinearea.dataFormat"
+                                        [dataSource]="penaltiesChartOptions">
+                                    </fusioncharts>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="grid-item">
+                                    <fusioncharts [width]="fusionChartObject.doughnut3d.width"
+                                        [height]="fusionChartObject.doughnut3d.height"
+                                        [type]="fusionChartObject.doughnut3d.type"
+                                        [dataFormat]="fusionChartObject.doughnut3d.dataFormat"
+                                        [dataSource]="cardsChartOptions">
+                                    </fusioncharts>
+                                </div>
                             </div>
                         </div>
                     </div>

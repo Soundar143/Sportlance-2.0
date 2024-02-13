@@ -1,0 +1,45 @@
+.player-stats-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.player-image {
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #fff;
+    /* Set a background color for the circular image container */
+}
+
+.player-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.player-info {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+.player-info .value {
+    display: flex;
+}
+
+.player-info .label {
+    margin-right: 5px;
+}
