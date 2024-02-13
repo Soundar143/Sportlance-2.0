@@ -21,7 +21,11 @@ export class DataService {
 
   private assists = 'assets/data/assists.json';
 
-  selectedPlayer = '';
+  private penaltiesConceided = 'assets/data/penaltiesConceided.json';
+
+  private penaltiesSaved = 'assets/data/penaltiesSaved.json';
+
+  selectedPlayer: any[] = [];
 
   constructor(private http: HttpClient) { }
 
@@ -52,7 +56,15 @@ export class DataService {
     return this.http.get(this.assists);
   }
 
-  setSelectedPlayer(player: string) {
+  setSelectedPlayer(player: any) {
     this.selectedPlayer = player;
+  }
+
+  getPenaltiesConceided(): Observable<any> {
+    return this.http.get(this.penaltiesConceided);
+  }
+
+  getPenaltiesSaved(): Observable<any> {
+    return this.http.get(this.penaltiesSaved);
   }
 }

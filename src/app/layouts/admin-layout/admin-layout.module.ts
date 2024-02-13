@@ -17,7 +17,12 @@ import { UpgradeComponent } from '../../upgrade/upgrade.component';
 import { ClubsComponent } from '../../clubs/clubs.component';
 import { PlayersComponent } from '../../players/players.component';
 import { PlayerComponent } from '../../player/player.component';
+import { FusionChartsModule} from 'angular-fusioncharts';
 
+import * as FusionCharts from "fusioncharts";
+import * as charts from "fusioncharts/fusioncharts.charts";
+import * as FusionTheme from "fusioncharts/themes/fusioncharts.theme.fusion";
+FusionChartsModule.fcRoot(FusionCharts, charts, FusionTheme);
 
 @NgModule({
   imports: [
@@ -26,7 +31,8 @@ import { PlayerComponent } from '../../player/player.component';
     FormsModule,
     ChartsModule,
     NgbModule,
-    ToastrModule.forRoot()
+    ToastrModule.forRoot(),
+    FusionChartsModule
   ],
   declarations: [
     DashboardComponent,
