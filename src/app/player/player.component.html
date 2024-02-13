@@ -5,23 +5,46 @@
         <div class="col-md-12">
             <div class="card">
                 <div class="card-header">
-                    <h5 class="title">{{playerName}}</h5>
+                    <h5 class="title">{{playerName['player']['name']}}</h5>
                 </div>
                 <div class="card-body">
                     <div class="row">
-                        <div class="col-sm-4 col-md-3">
+                        <div class="col-sm-4">
                             <div class="grid-item">
-                                Grid Item 1
+                                <fusioncharts [width]="fusionChartObject.column3d.width"
+                                    [height]="fusionChartObject.column3d.height"
+                                    [type]="fusionChartObject.column3d.type"
+                                    [dataFormat]="fusionChartObject.column3d.dataFormat"
+                                    [dataSource]="goalsChartOptions">
+                                </fusioncharts>
                             </div>
                         </div>
                         <div class="col-sm-4">
                             <div class="grid-item">
-                                Grid Item 2
+                                <fusioncharts [width]="fusionChartObject.line.width"
+                                    [height]="fusionChartObject.line.height" [type]="fusionChartObject.line.type"
+                                    [dataFormat]="fusionChartObject.line.dataFormat"
+                                    [dataSource]="appearanceChartOptions">
+                                </fusioncharts>
                             </div>
                         </div>
                         <div class="col-sm-4">
                             <div class="grid-item">
-                                Grid Item 3
+                                <fusioncharts [width]="fusionChartObject.pie3d.width"
+                                    [height]="fusionChartObject.pie3d.height" [type]="fusionChartObject.pie3d.type"
+                                    [dataFormat]="fusionChartObject.pie3d.dataFormat"
+                                    [dataSource]="assistsChartOptions">
+                                </fusioncharts>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="grid-item">
+                                <fusioncharts [width]="fusionChartObject.mssplinearea.width"
+                                    [height]="fusionChartObject.mssplinearea.height"
+                                    [type]="fusionChartObject.mssplinearea.type"
+                                    [dataFormat]="fusionChartObject.mssplinearea.dataFormat"
+                                    [dataSource]="penaltiesChartOptions">
+                                </fusioncharts>
                             </div>
                         </div>
                     </div>

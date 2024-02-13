@@ -1,0 +1,3106 @@
+[
+  {
+    "Initial Year": 2006,
+    "Rank": 1,
+    "Player": "Brad Friedel",
+    "Club": "-",
+    "Nationality": "United States",
+    "Stat": 4
+  },
+  {
+    "Initial Year": 2006,
+    "Rank": 2,
+    "Player": "Scott Carson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2006,
+    "Rank": 2,
+    "Player": "Jussi Jääskeläinen",
+    "Club": "-",
+    "Nationality": "Finland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2006,
+    "Rank": 2,
+    "Player": "David James",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2006,
+    "Rank": 5,
+    "Player": "Jason Brown",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2006,
+    "Rank": 5,
+    "Player": "John Filan",
+    "Club": "-",
+    "Nationality": "Australia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2006,
+    "Rank": 5,
+    "Player": "Tim Howard",
+    "Club": "-",
+    "Nationality": "United States",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2006,
+    "Rank": 5,
+    "Player": "Andreas Isaksson",
+    "Club": "-",
+    "Nationality": "Sweden",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2006,
+    "Rank": 5,
+    "Player": "Paddy Kenny",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2006,
+    "Rank": 5,
+    "Player": "Chris Kirkland",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2006,
+    "Rank": 5,
+    "Player": "Tomasz Kuszczak",
+    "Club": "-",
+    "Nationality": "Poland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2006,
+    "Rank": 5,
+    "Player": "Jan Lastuvka",
+    "Club": "-",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2006,
+    "Rank": 5,
+    "Player": "Henrique Hilário",
+    "Club": "-",
+    "Nationality": "Portugal",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2006,
+    "Rank": 5,
+    "Player": "Edwin van der Sar",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2007,
+    "Rank": 1,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2007,
+    "Rank": 2,
+    "Player": "Brad Friedel",
+    "Club": "-",
+    "Nationality": "United States",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2007,
+    "Rank": 2,
+    "Player": "Marcus Hahnemann",
+    "Club": "-",
+    "Nationality": "United States",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2007,
+    "Rank": 2,
+    "Player": "David James",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2007,
+    "Rank": 5,
+    "Player": "Manuel Almunia",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2007,
+    "Rank": 5,
+    "Player": "Scott Carson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2007,
+    "Rank": 5,
+    "Player": "Joe Hart",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2007,
+    "Rank": 5,
+    "Player": "Chris Kirkland",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2007,
+    "Rank": 5,
+    "Player": "Pepe Reina",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2007,
+    "Rank": 5,
+    "Player": "Kasper Schmeichel",
+    "Club": "-",
+    "Nationality": "Denmark",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2007,
+    "Rank": 5,
+    "Player": "Stuart Taylor",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Manuel Almunia",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Shay Given",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Manuel Almunia",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Shay Given",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Manuel Almunia",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Shay Given",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Manuel Almunia",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Shay Given",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Manuel Almunia",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Shay Given",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Manuel Almunia",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Shay Given",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Manuel Almunia",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Shay Given",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Manuel Almunia",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Shay Given",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Manuel Almunia",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Shay Given",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Manuel Almunia",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Shay Given",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 1,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Petr Cech",
+    "Club": "-",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Matt Duke",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Marton Fülöp",
+    "Club": "-",
+    "Nationality": "Hungary",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Jussi Jääskeläinen",
+    "Club": "-",
+    "Nationality": "Finland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "David James",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Richard Kingson",
+    "Club": "-",
+    "Nationality": "Ghana",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Mark Schwarzer",
+    "Club": "-",
+    "Nationality": "Australia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Petr Cech",
+    "Club": "-",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Matt Duke",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Marton Fülöp",
+    "Club": "-",
+    "Nationality": "Hungary",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Jussi Jääskeläinen",
+    "Club": "-",
+    "Nationality": "Finland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "David James",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Richard Kingson",
+    "Club": "-",
+    "Nationality": "Ghana",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Mark Schwarzer",
+    "Club": "-",
+    "Nationality": "Australia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Petr Cech",
+    "Club": "-",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Matt Duke",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Marton Fülöp",
+    "Club": "-",
+    "Nationality": "Hungary",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Jussi Jääskeläinen",
+    "Club": "-",
+    "Nationality": "Finland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "David James",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Richard Kingson",
+    "Club": "-",
+    "Nationality": "Ghana",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Mark Schwarzer",
+    "Club": "-",
+    "Nationality": "Australia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Petr Cech",
+    "Club": "-",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Matt Duke",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Marton Fülöp",
+    "Club": "-",
+    "Nationality": "Hungary",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Jussi Jääskeläinen",
+    "Club": "-",
+    "Nationality": "Finland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "David James",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Richard Kingson",
+    "Club": "-",
+    "Nationality": "Ghana",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Mark Schwarzer",
+    "Club": "-",
+    "Nationality": "Australia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Petr Cech",
+    "Club": "-",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Matt Duke",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Marton Fülöp",
+    "Club": "-",
+    "Nationality": "Hungary",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Jussi Jääskeläinen",
+    "Club": "-",
+    "Nationality": "Finland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "David James",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Richard Kingson",
+    "Club": "-",
+    "Nationality": "Ghana",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Mark Schwarzer",
+    "Club": "-",
+    "Nationality": "Australia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Petr Cech",
+    "Club": "-",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Matt Duke",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Marton Fülöp",
+    "Club": "-",
+    "Nationality": "Hungary",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Jussi Jääskeläinen",
+    "Club": "-",
+    "Nationality": "Finland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "David James",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Richard Kingson",
+    "Club": "-",
+    "Nationality": "Ghana",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Mark Schwarzer",
+    "Club": "-",
+    "Nationality": "Australia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Petr Cech",
+    "Club": "-",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Matt Duke",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Marton Fülöp",
+    "Club": "-",
+    "Nationality": "Hungary",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Jussi Jääskeläinen",
+    "Club": "-",
+    "Nationality": "Finland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "David James",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Richard Kingson",
+    "Club": "-",
+    "Nationality": "Ghana",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Mark Schwarzer",
+    "Club": "-",
+    "Nationality": "Australia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Petr Cech",
+    "Club": "-",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Matt Duke",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Marton Fülöp",
+    "Club": "-",
+    "Nationality": "Hungary",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Jussi Jääskeläinen",
+    "Club": "-",
+    "Nationality": "Finland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "David James",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Richard Kingson",
+    "Club": "-",
+    "Nationality": "Ghana",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Mark Schwarzer",
+    "Club": "-",
+    "Nationality": "Australia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Petr Cech",
+    "Club": "-",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Matt Duke",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Marton Fülöp",
+    "Club": "-",
+    "Nationality": "Hungary",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Jussi Jääskeläinen",
+    "Club": "-",
+    "Nationality": "Finland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "David James",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Richard Kingson",
+    "Club": "-",
+    "Nationality": "Ghana",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Mark Schwarzer",
+    "Club": "-",
+    "Nationality": "Australia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Petr Cech",
+    "Club": "-",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Matt Duke",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Marton Fülöp",
+    "Club": "-",
+    "Nationality": "Hungary",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Jussi Jääskeläinen",
+    "Club": "-",
+    "Nationality": "Finland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "David James",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Richard Kingson",
+    "Club": "-",
+    "Nationality": "Ghana",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2008,
+    "Rank": 4,
+    "Player": "Mark Schwarzer",
+    "Club": "-",
+    "Nationality": "Australia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2009,
+    "Rank": 1,
+    "Player": "Heurelho Gomes",
+    "Club": "-",
+    "Nationality": "Brazil",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2009,
+    "Rank": 1,
+    "Player": "Brian Jensen",
+    "Club": "-",
+    "Nationality": "Denmark",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2009,
+    "Rank": 1,
+    "Player": "Thomas Sørensen",
+    "Club": "-",
+    "Nationality": "Denmark",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2009,
+    "Rank": 4,
+    "Player": "Manuel Almunia",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2009,
+    "Rank": 4,
+    "Player": "Shay Given",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2009,
+    "Rank": 4,
+    "Player": "Tim Howard",
+    "Club": "-",
+    "Nationality": "United States",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2009,
+    "Rank": 4,
+    "Player": "Jussi Jääskeläinen",
+    "Club": "-",
+    "Nationality": "Finland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2009,
+    "Rank": 8,
+    "Player": "Petr Cech",
+    "Club": "-",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2009,
+    "Rank": 8,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2009,
+    "Rank": 8,
+    "Player": "Marcus Hahnemann",
+    "Club": "-",
+    "Nationality": "United States",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2009,
+    "Rank": 8,
+    "Player": "David James",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2009,
+    "Rank": 8,
+    "Player": "Boaz Myhill",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2009,
+    "Rank": 8,
+    "Player": "Pepe Reina",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2010,
+    "Rank": 1,
+    "Player": "Heurelho Gomes",
+    "Club": "-",
+    "Nationality": "Brazil",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2010,
+    "Rank": 1,
+    "Player": "Jussi Jääskeläinen",
+    "Club": "-",
+    "Nationality": "Finland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2010,
+    "Rank": 3,
+    "Player": "Manuel Almunia",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2010,
+    "Rank": 3,
+    "Player": "Asmir Begovic",
+    "Club": "-",
+    "Nationality": "Bosnia & Herzegovina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2010,
+    "Rank": 3,
+    "Player": "Petr Cech",
+    "Club": "-",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2010,
+    "Rank": 3,
+    "Player": "Ben Foster",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2010,
+    "Rank": 3,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2010,
+    "Rank": 3,
+    "Player": "Ali Al Habsi",
+    "Club": "-",
+    "Nationality": "Oman",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2010,
+    "Rank": 3,
+    "Player": "Joe Hart",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2010,
+    "Rank": 3,
+    "Player": "David Stockdale",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2010,
+    "Rank": 3,
+    "Player": "Wojciech Szczesny",
+    "Club": "-",
+    "Nationality": "Poland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2010,
+    "Rank": 3,
+    "Player": "Thomas Sørensen",
+    "Club": "-",
+    "Nationality": "Denmark",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2011,
+    "Rank": 1,
+    "Player": "Ali Al Habsi",
+    "Club": "-",
+    "Nationality": "Oman",
+    "Stat": 4
+  },
+  {
+    "Initial Year": 2011,
+    "Rank": 2,
+    "Player": "Ben Foster",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2011,
+    "Rank": 2,
+    "Player": "Wayne Hennessey",
+    "Club": "Wolverhampton Wanderers",
+    "Nationality": "Wales",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2011,
+    "Rank": 2,
+    "Player": "Tim Howard",
+    "Club": "-",
+    "Nationality": "United States",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2011,
+    "Rank": 2,
+    "Player": "Tim Krul",
+    "Club": "Newcastle United",
+    "Nationality": "Netherlands",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2011,
+    "Rank": 2,
+    "Player": "Michel Vorm",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2011,
+    "Rank": 7,
+    "Player": "Ádám Bogdán",
+    "Club": "-",
+    "Nationality": "Hungary",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2011,
+    "Rank": 7,
+    "Player": "David de Gea",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2011,
+    "Rank": 7,
+    "Player": "Joe Hart",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2011,
+    "Rank": 7,
+    "Player": "Bradley Jones",
+    "Club": "-",
+    "Nationality": "Australia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2011,
+    "Rank": 7,
+    "Player": "Simon Mignolet",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2011,
+    "Rank": 7,
+    "Player": "Paul Robinson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2011,
+    "Rank": 7,
+    "Player": "Declan Rudd",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2011,
+    "Rank": 7,
+    "Player": "John Ruddy",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2011,
+    "Rank": 7,
+    "Player": "Wojciech Szczesny",
+    "Club": "-",
+    "Nationality": "Poland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2012,
+    "Rank": 1,
+    "Player": "Mark Schwarzer",
+    "Club": "-",
+    "Nationality": "Australia",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2012,
+    "Rank": 2,
+    "Player": "Kelvin Davis",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2012,
+    "Rank": 3,
+    "Player": "Artur Boruc",
+    "Club": "-",
+    "Nationality": "Poland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2012,
+    "Rank": 3,
+    "Player": "Mark Bunn",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2012,
+    "Rank": 3,
+    "Player": "Ben Foster",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2012,
+    "Rank": 3,
+    "Player": "Brad Guzan",
+    "Club": "-",
+    "Nationality": "United States",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2012,
+    "Rank": 5,
+    "Player": "James McArthur",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2012,
+    "Rank": 3,
+    "Player": "Ali Al Habsi",
+    "Club": "-",
+    "Nationality": "Oman",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2012,
+    "Rank": 3,
+    "Player": "Joe Hart",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2012,
+    "Rank": 3,
+    "Player": "Pepe Reina",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2012,
+    "Rank": 3,
+    "Player": "John Ruddy",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2012,
+    "Rank": 3,
+    "Player": "Wojciech Szczesny",
+    "Club": "-",
+    "Nationality": "Poland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2012,
+    "Rank": 3,
+    "Player": "Michel Vorm",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 1,
+    "Player": "Ben Foster",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 1,
+    "Player": "Tim Howard",
+    "Club": "-",
+    "Nationality": "United States",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 3,
+    "Player": "Asmir Begovic",
+    "Club": "-",
+    "Nationality": "Bosnia & Herzegovina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 3,
+    "Player": "Brad Guzan",
+    "Club": "-",
+    "Nationality": "United States",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 3,
+    "Player": "Hugo Lloris",
+    "Club": "Tottenham Hotspur",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 3,
+    "Player": "Allan McGregor",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 3,
+    "Player": "Simon Mignolet",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 3,
+    "Player": "Wojciech Szczesny",
+    "Club": "-",
+    "Nationality": "Poland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2013,
+    "Rank": 3,
+    "Player": "Thomas Sørensen",
+    "Club": "-",
+    "Nationality": "Denmark",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 1,
+    "Player": "Adrián",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 1,
+    "Player": "Adrián",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 1,
+    "Player": "Adrián",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 1,
+    "Player": "Adrián",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 5,
+    "Player": "James McArthur",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 1,
+    "Player": "Adrián",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 1,
+    "Player": "Adrián",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 1,
+    "Player": "Adrián",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 1,
+    "Player": "Adrián",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 1,
+    "Player": "Adrián",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 1,
+    "Player": "Adrián",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Tom Heaton",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Allan McGregor",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Simon Mignolet",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Julian Speroni",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Tom Heaton",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Allan McGregor",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Simon Mignolet",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Julian Speroni",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Tom Heaton",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Allan McGregor",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Simon Mignolet",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Julian Speroni",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Tom Heaton",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Allan McGregor",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Simon Mignolet",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Julian Speroni",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Tom Heaton",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Allan McGregor",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Simon Mignolet",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Julian Speroni",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Tom Heaton",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Allan McGregor",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Simon Mignolet",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Julian Speroni",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Tom Heaton",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Allan McGregor",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Simon Mignolet",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Julian Speroni",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Tom Heaton",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Allan McGregor",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Simon Mignolet",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Julian Speroni",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Tom Heaton",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Allan McGregor",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Simon Mignolet",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Julian Speroni",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Robert Green",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Tom Heaton",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Allan McGregor",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Simon Mignolet",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 2,
+    "Player": "Julian Speroni",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "David de Gea",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Joe Hart",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Hugo Lloris",
+    "Club": "Tottenham Hotspur",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Boaz Myhill",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "David de Gea",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Joe Hart",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Hugo Lloris",
+    "Club": "Tottenham Hotspur",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Boaz Myhill",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "David de Gea",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Joe Hart",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Hugo Lloris",
+    "Club": "Tottenham Hotspur",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Boaz Myhill",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "David de Gea",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Joe Hart",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Hugo Lloris",
+    "Club": "Tottenham Hotspur",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Boaz Myhill",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "David de Gea",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Joe Hart",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Hugo Lloris",
+    "Club": "Tottenham Hotspur",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Boaz Myhill",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "David de Gea",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Joe Hart",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Hugo Lloris",
+    "Club": "Tottenham Hotspur",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Boaz Myhill",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "David de Gea",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Joe Hart",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Hugo Lloris",
+    "Club": "Tottenham Hotspur",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Boaz Myhill",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "David de Gea",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Joe Hart",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Hugo Lloris",
+    "Club": "Tottenham Hotspur",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Boaz Myhill",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "David de Gea",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Joe Hart",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Hugo Lloris",
+    "Club": "Tottenham Hotspur",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Boaz Myhill",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "David de Gea",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Joe Hart",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Hugo Lloris",
+    "Club": "Tottenham Hotspur",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2014,
+    "Rank": 7,
+    "Player": "Boaz Myhill",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 1,
+    "Player": "Heurelho Gomes",
+    "Club": "-",
+    "Nationality": "Brazil",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 2,
+    "Player": "Artur Boruc",
+    "Club": "-",
+    "Nationality": "Poland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 2,
+    "Player": "Adrián",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 4,
+    "Player": "Mark Bunn",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 4,
+    "Player": "Thibaut Courtois",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 4,
+    "Player": "Karl Darlow",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2015,
+    "Rank": 4,
+    "Player": "Simon Mignolet",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 1,
+    "Player": "Artur Boruc",
+    "Club": "-",
+    "Nationality": "Poland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 5,
+    "Player": "James McArthur",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 1,
+    "Player": "Eldin Jakupovic",
+    "Club": "-",
+    "Nationality": "Switzerland",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 1,
+    "Player": "Simon Mignolet",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 1,
+    "Player": "Maarten Stekelenburg",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 5,
+    "Player": "Claudio Bravo",
+    "Club": "-",
+    "Nationality": "Chile",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 5,
+    "Player": "Willy Caballero",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 5,
+    "Player": "Heurelho Gomes",
+    "Club": "-",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 5,
+    "Player": "Lukasz Fabianski",
+    "Club": "Swansea City",
+    "Nationality": "Poland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 5,
+    "Player": "Fraser Forster",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 5,
+    "Player": "Shay Given",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 5,
+    "Player": "Tom Heaton",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 5,
+    "Player": "Darren Randolph",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2016,
+    "Rank": 5,
+    "Player": "Sergio Romero",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 1,
+    "Player": "Lukasz Fabianski",
+    "Club": "Swansea City",
+    "Nationality": "Poland",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 2,
+    "Player": "Jonas Lössl",
+    "Club": "-",
+    "Nationality": "Denmark",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 2,
+    "Player": "Mathew Ryan",
+    "Club": "-",
+    "Nationality": "Australia",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 2,
+    "Player": "Ederson",
+    "Club": "Manchester City",
+    "Nationality": "Brazil",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 2,
+    "Player": "Kasper Schmeichel",
+    "Club": "-",
+    "Nationality": "Denmark",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 6,
+    "Player": "Asmir Begovic",
+    "Club": "-",
+    "Nationality": "Bosnia & Herzegovina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 6,
+    "Player": "Petr Cech",
+    "Club": "-",
+    "Nationality": "Czech Republic",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 6,
+    "Player": "Martin Dúbravka",
+    "Club": "-",
+    "Nationality": "Slovakia",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 6,
+    "Player": "Robert Elliot",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 6,
+    "Player": "Fraser Forster",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 6,
+    "Player": "Joe Hart",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 6,
+    "Player": "Loris Karius",
+    "Club": "Liverpool",
+    "Nationality": "Germany",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 6,
+    "Player": "Simon Mignolet",
+    "Club": "-",
+    "Nationality": "Belgium",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 6,
+    "Player": "Jordan Pickford",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2017,
+    "Rank": 6,
+    "Player": "Nick Pope",
+    "Club": "Burnley",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 1,
+    "Player": "Neil Etheridge",
+    "Club": "-",
+    "Nationality": "Philippines",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 1,
+    "Player": "Jordan Pickford",
+    "Club": "Everton",
+    "Nationality": "England",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 3,
+    "Player": "Hugo Lloris",
+    "Club": "Tottenham Hotspur",
+    "Nationality": "France",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 4,
+    "Player": "Kepa",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 4,
+    "Player": "Marcus Bettinelli",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 4,
+    "Player": "Lukasz Fabianski",
+    "Club": "West Ham United",
+    "Nationality": "Poland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 4,
+    "Player": "Ben Foster",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 4,
+    "Player": "Angus Gunn",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 4,
+    "Player": "Joe Hart",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 4,
+    "Player": "Wayne Hennessey",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2018,
+    "Rank": 4,
+    "Player": "Jonas Lössl",
+    "Club": "-",
+    "Nationality": "Denmark",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 1,
+    "Player": "Rui Patrício",
+    "Club": "-",
+    "Nationality": "Portugal",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 1,
+    "Player": "Tim Krul",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 1,
+    "Player": "Kasper Schmeichel",
+    "Club": "-",
+    "Nationality": "Denmark",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Lukasz Fabianski",
+    "Club": "West Ham United",
+    "Nationality": "Poland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Ben Foster",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Paulo Gazzaniga",
+    "Club": "-",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Dean Henderson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Bernd Leno",
+    "Club": "-",
+    "Nationality": "Germany",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Hugo Lloris",
+    "Club": "Tottenham Hotspur",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Alex McCarthy",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Michael McGovern",
+    "Club": "-",
+    "Nationality": "Northern Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Nick Pope",
+    "Club": "Burnley",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Aaron Ramsdale",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 4,
+    "Player": "Pepe Reina",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2019,
+    "Rank": 15,
+    "Player": "Mathew Ryan",
+    "Club": "-",
+    "Nationality": "Australia",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 1,
+    "Player": "Alisson Becker",
+    "Club": "Liverpool",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 1,
+    "Player": "Scott Carson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 1,
+    "Player": "Karl Darlow",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 1,
+    "Player": "Rui Patrício",
+    "Club": "-",
+    "Nationality": "Portugal",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 1,
+    "Player": "Lukasz Fabianski",
+    "Club": "West Ham United",
+    "Nationality": "Poland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 1,
+    "Player": "Fraser Forster",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 1,
+    "Player": "Vicente Guaita",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 1,
+    "Player": "Sam Johnstone",
+    "Club": "West Bromwich Albion",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 1,
+    "Player": "Bernd Leno",
+    "Club": "-",
+    "Nationality": "Germany",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 1,
+    "Player": "Emiliano Martínez",
+    "Club": "Aston Villa",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 1,
+    "Player": "Édouard Mendy",
+    "Club": "-",
+    "Nationality": "Senegal",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 1,
+    "Player": "Illan Meslier",
+    "Club": "-",
+    "Nationality": "France",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 1,
+    "Player": "Ederson",
+    "Club": "Manchester City",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2020,
+    "Rank": 14,
+    "Player": "David de Gea",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 1,
+    "Player": "Lukasz Fabianski",
+    "Club": "West Ham United",
+    "Nationality": "Poland",
+    "Stat": 3
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 2,
+    "Player": "David de Gea",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 2,
+    "Player": "Kasper Schmeichel",
+    "Club": "-",
+    "Nationality": "Denmark",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 4,
+    "Player": "Jack Butland",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 4,
+    "Player": "Ben Foster",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 4,
+    "Player": "Angus Gunn",
+    "Club": "-",
+    "Nationality": "Scotland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 4,
+    "Player": "Emiliano Martínez",
+    "Club": "Aston Villa",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 4,
+    "Player": "Freddie Woodman",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2021,
+    "Rank": 9,
+    "Player": "Tim Krul",
+    "Club": "-",
+    "Nationality": "Netherlands",
+    "Stat": 0
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 1,
+    "Player": "Dean Henderson",
+    "Club": "-",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 1,
+    "Player": "José Sá",
+    "Club": "Wolverhampton Wanderers",
+    "Nationality": "Portugal",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 1,
+    "Player": "Nick Pope",
+    "Club": "Newcastle United",
+    "Nationality": "England",
+    "Stat": 2
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 4,
+    "Player": "Gavin Bazunu",
+    "Club": "-",
+    "Nationality": "Ireland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 4,
+    "Player": "Alisson Becker",
+    "Club": "Liverpool",
+    "Nationality": "Brazil",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 4,
+    "Player": "David de Gea",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 4,
+    "Player": "Lukasz Fabianski",
+    "Club": "West Ham United",
+    "Nationality": "Poland",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 4,
+    "Player": "Fraser Forster",
+    "Club": "Tottenham Hotspur",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 4,
+    "Player": "Bernd Leno",
+    "Club": "Fulham",
+    "Nationality": "Germany",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 4,
+    "Player": "Emiliano Martínez",
+    "Club": "Aston Villa",
+    "Nationality": "Argentina",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 4,
+    "Player": "Jordan Pickford",
+    "Club": "Everton",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 4,
+    "Player": "Robert Sánchez",
+    "Club": "-",
+    "Nationality": "Spain",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 4,
+    "Player": "Jason Steele",
+    "Club": "Brighton & Hove Albion",
+    "Nationality": "England",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 4,
+    "Player": "Danny Ward",
+    "Club": "-",
+    "Nationality": "Wales",
+    "Stat": 1
+  },
+  {
+    "Initial Year": 2022,
+    "Rank": 15,
+    "Player": "Hugo Lloris",
+    "Club": "Tottenham Hotspur",
+    "Nationality": "France",
+    "Stat": 0
+  }
+]

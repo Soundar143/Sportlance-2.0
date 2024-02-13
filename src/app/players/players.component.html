@@ -15,7 +15,7 @@
                         <div class="font-icon-list col-lg-2 col-md-3 col-sm-4 col-xs-6 col-xs-6" *ngFor="let playerData of playersData">
                             <div class="font-icon-detail">
                                 <img [src]="playerData.player.photo" alt="">
-                                <a (click)="viewPlayer(playerData.player.name)" [routerLink]="['/players', playerData.player.name]" class="player-link">{{playerData.player.name}}</a>
+                                <a (click)="viewPlayer(playerData)" [routerLink]="['/players', playerData.player.name]" class="player-link">{{playerData.player.name}}</a>
                             </div>
                         </div>
                     </div>

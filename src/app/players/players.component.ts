@@ -19,8 +19,8 @@ export class PlayersComponent implements OnInit {
     })
   }
 
-  viewPlayer(name: string) {
-    this.dataService.setSelectedPlayer(name);
+  viewPlayer(data: string) {
+    this.dataService.setSelectedPlayer(data);
   }
 
 }
