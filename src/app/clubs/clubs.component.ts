@@ -1,5 +1,6 @@
 import { Component, ElementRef, OnInit, ViewChild } from '@angular/core';
 import * as d3 from 'd3';
+import * as XLSX from 'xlsx';
 
 @Component({
   selector: 'app-clubs',
@@ -10,9 +11,26 @@ export class ClubsComponent implements OnInit {
 
   @ViewChild('chart', { static: true }) myElementRef: ElementRef | any;
 
-  constructor() { }
+  jsonData: any;
+  @ViewChild('fileInput') fileInput!: ElementRef;
 
-  async ngOnInit() {
+  onFileChange(event: any): void {
+    const file = event.target.files[0];
+    const reader = new FileReader();
+    reader.onload = (e: any) => {
+      const data = new Uint8Array(e.target.result);
+      const workbook = XLSX.read(data, { type: 'array' });
+      const sheetName = workbook.SheetNames[0];
+      const sheet = workbook.Sheets[sheetName];
+      this.jsonData = XLSX.utils.sheet_to_json(sheet, { raw: false });
+    };
+    reader.readAsArrayBuffer(file);
+  }
+
+  play() {
+    console.log('Playing...');
+    console.log('JSON data:', this.jsonData);
+    this.myElementRef.nativeElement.firstChild?.remove();
     const chartElement: HTMLElement = this.myElementRef.nativeElement;
     const width: number = chartElement.offsetWidth;
     const margin = { top: 16, right: 6, bottom: 6, left: 0 };
@@ -21,21 +39,30 @@ export class ClubsComponent implements OnInit {
     const k: number = 10; // DO NOT UPDATE
     const duration: number =250;
     const height: number = margin.top + barSize * n + margin.bottom;
+    this.draw(
+      this.jsonData,
+      chartElement,
+      width,
+      height,
+      margin,
+      barSize,
+      n,
+      k,
+      duration
+    );
+    // Add your play logic here
+  }
 
-    // load csv and init data
-    d3.csv('assets/data/Goals.csv').then((data: any) => {
-      this.draw(
-        data,
-        chartElement,
-        width,
-        height,
-        margin,
-        barSize,
-        n,
-        k,
-        duration
-      );
-    });
+  deleteFile() {
+    this.jsonData = null;
+    this.fileInput.nativeElement.value = ''; // Reset file input
+    this.myElementRef.nativeElement.firstChild?.remove();
+    console.log('File deleted');
+  }
+
+  constructor() { }
+
+  async ngOnInit() {
   }
 
   async draw(
@@ -63,7 +90,7 @@ export class ClubsComponent implements OnInit {
       d3.rollup(
         data,
         ([d]: any) => +d.Stat,
-        (d: any) => new Date(d.Initial_Year),
+        (d: any) => new Date(d['Initial Year']),
         (d) => d.Player
       )
     )
