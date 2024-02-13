@@ -11,6 +11,7 @@ import { UpgradeComponent } from '../../upgrade/upgrade.component';
 import { PlayersComponent } from '../../players/players.component';
 import { ClubsComponent } from '../../clubs/clubs.component';
 import { PlayerComponent } from '../../player/player.component';
+import { BarChartRaceComponent } from '../../bar-chart-race/bar-chart-race.component';
 
 export const AdminLayoutRoutes: Routes = [
     // { path: 'competitons', component: CompetitionsComponent},
@@ -23,6 +24,8 @@ export const AdminLayoutRoutes: Routes = [
     // { path: 'notifications',  component: NotificationsComponent },
     // { path: 'upgrade',        component: UpgradeComponent },
     { path: 'players',        component: PlayersComponent },
+    { path: 'bar-chart-race',        component: BarChartRaceComponent },
     { path: 'clubs', component: ClubsComponent},
-    { path: 'players/:name', component: PlayerComponent}
+    { path: 'players/:name', component: PlayerComponent},
+
 ];

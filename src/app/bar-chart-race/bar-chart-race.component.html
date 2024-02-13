@@ -1,0 +1,36 @@
+<div class="panel-header panel-header-sm">
+</div>
+<div class="main-content">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="card">
+        <div class="card-header">
+          <h5 class="title">Bar chart race</h5>
+          <p class="category">Make your own bar chart race </p>
+        </div>
+        <div class="card-body all-icons">
+          <div class="row">
+            <div class="col-6">
+              <input type="file" (change)="onFileChange($event)" accept=".csv,.xlsx,.xls" #fileInput>
+            </div>
+            <div class="col-6">
+              <button class="btn btn-primary" [disabled]="!jsonData" (click)="play()">Play</button>
+              <button class="btn btn-danger" [disabled]="!jsonData" (click)="deleteFile()">Delete</button>
+            </div>
+          </div>
+          <br>
+          <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div id="chart" class="w-100 h-100" #chart></div>
+                </div>
+            </div>
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+

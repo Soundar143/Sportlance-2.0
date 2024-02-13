@@ -18,6 +18,7 @@ import { ClubsComponent } from '../../clubs/clubs.component';
 import { PlayersComponent } from '../../players/players.component';
 import { PlayerComponent } from '../../player/player.component';
 import { FusionChartsModule} from 'angular-fusioncharts';
+import { BarChartRaceComponent } from '../../bar-chart-race/bar-chart-race.component';
 
 import * as FusionCharts from "fusioncharts";
 import * as charts from "fusioncharts/fusioncharts.charts";
@@ -45,7 +46,8 @@ FusionChartsModule.fcRoot(FusionCharts, charts, FusionTheme);
     NotificationsComponent,
     PlayersComponent,
     ClubsComponent,
-    PlayerComponent
+    PlayerComponent,
+    BarChartRaceComponent
   ]
 })
 
