@@ -1,0 +1,13 @@
+.player-link {
+    margin: 25px auto 0;
+    width: 100%;
+    text-align: center;
+    display: block;
+    color: #b8b8b8;
+    padding: 0 10px;
+    font-size: .7142em;
+    &:hover {
+        text-decoration: underline;
+        cursor: pointer;
+    }
+}
