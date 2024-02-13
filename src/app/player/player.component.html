@@ -9,7 +9,7 @@
                 </div>
                 <div class="card-body">
                     <div class="row">
-                        <div class="col-sm-4">
+                        <div class="col-sm-6">
                             <div class="grid-item">
                                 <fusioncharts [width]="fusionChartObject.column3d.width"
                                     [height]="fusionChartObject.column3d.height"
@@ -19,7 +19,7 @@
                                 </fusioncharts>
                             </div>
                         </div>
-                        <div class="col-sm-4">
+                        <div class="col-sm-6">
                             <div class="grid-item">
                                 <fusioncharts [width]="fusionChartObject.line.width"
                                     [height]="fusionChartObject.line.height" [type]="fusionChartObject.line.type"
@@ -28,7 +28,7 @@
                                 </fusioncharts>
                             </div>
                         </div>
-                        <div class="col-sm-4">
+                        <div class="col-sm-6">
                             <div class="grid-item">
                                 <fusioncharts [width]="fusionChartObject.pie3d.width"
                                     [height]="fusionChartObject.pie3d.height" [type]="fusionChartObject.pie3d.type"
@@ -37,13 +37,23 @@
                                 </fusioncharts>
                             </div>
                         </div>
-                        <div class="col-sm-4">
+                        <div class="col-sm-6">
                             <div class="grid-item">
                                 <fusioncharts [width]="fusionChartObject.mssplinearea.width"
                                     [height]="fusionChartObject.mssplinearea.height"
                                     [type]="fusionChartObject.mssplinearea.type"
                                     [dataFormat]="fusionChartObject.mssplinearea.dataFormat"
                                     [dataSource]="penaltiesChartOptions">
+                                </fusioncharts>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="grid-item">
+                                <fusioncharts [width]="fusionChartObject.doughnut3d.width"
+                                    [height]="fusionChartObject.doughnut3d.height"
+                                    [type]="fusionChartObject.doughnut3d.type"
+                                    [dataFormat]="fusionChartObject.doughnut3d.dataFormat"
+                                    [dataSource]="cardsChartOptions">
                                 </fusioncharts>
                             </div>
                         </div>

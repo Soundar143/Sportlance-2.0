@@ -49,29 +49,42 @@ export class PlayerComponent implements OnInit {
   matchedpenaltiesConceidedData: any[] = [];
   matchedpenaltiesSavedData: any[] = [];
 
+  redCardsData: any[] = [];
+  yellowCardsData: any[] = [];
+  cardsChartOptions: any = {
+  }
+  matchedRedCardsData: any[] = [];
+  matchedYellowCardsData: any[] = [];
+
   fusionChartObject = {
     column3d: {
-      width: '300',
-      height: '260',
+      width: '500',
+      height: '400',
       type: "column3d",
       dataFormat: "json"
     },
     line: {
-      width: '300',
-      height: '260',
+      width: '500',
+      height: '400',
       type: "line",
       dataFormat: "json"
     },
     pie3d: {
-      width: '300',
-      height: '260',
+      width: '500',
+      height: '400',
       type: "pie3d",
       dataFormat: "json"
     },
     mssplinearea: {
-      width: '300',
-      height: '260',
+      width: '500',
+      height: '400',
       type: "mssplinearea",
+      dataFormat: "json"
+    },
+    doughnut3d: {
+      width: '500',
+      height: '400',
+      type: "doughnut3d",
       dataFormat: "json"
     }
   };
@@ -115,6 +128,12 @@ export class PlayerComponent implements OnInit {
     this.DataFetchService.getPenaltiesSaved().subscribe((data: any) => {
       this.penaltiesSavedData = data;
     });
+    this.DataFetchService.getRedcards().subscribe((data: any) => {
+      this.redCardsData = data;
+    });
+    this.DataFetchService.getYellowcards().subscribe((data: any) => {
+      this.yellowCardsData = data;
+    })
     setTimeout(() => {
       this.onPlayerSelected(this.selectedData);
     }, 100);
@@ -126,6 +145,7 @@ export class PlayerComponent implements OnInit {
     this.getAppearances(this.selectedData);
     this.getAssists(this.selectedData);
     this.getPenalties(this.selectedData);
+    this.getCards(this.selectedData)
     setTimeout(() => {
       let fcc = (document.querySelectorAll('.fusioncharts-container'));
       Array.from(fcc).forEach((element: any) => {
@@ -135,7 +155,7 @@ export class PlayerComponent implements OnInit {
         ((element as HTMLElement).firstElementChild?.childNodes[1] as HTMLElement).setAttribute('style', 'visibility: visible;');
         ((element as HTMLElement).firstElementChild?.childNodes[0] as HTMLElement).setAttribute('style', 'visibility: visible;');
       })
-    }, 100);
+    }, 1000);
   }
 
   getPlayersGoals(selectedValue: any) {
@@ -150,7 +170,7 @@ export class PlayerComponent implements OnInit {
         yaxisname: "Goals{br}(in Numbers)",
         decimals: "1",
         enablesmartlabels: "0",
-        theme: "candy",
+        theme: "fusion",
         usedataplotcolorforlabels: "1",
         xaxisname: "Years"
       },
@@ -301,6 +321,42 @@ export class PlayerComponent implements OnInit {
 
     (this.penaltiesChartOptions as any)['categories'][0]['category'] = mergedCategories;
 
+  }
+
+  getCards(selectedValue: any) {
+    this.matchedYellowCardsData = this.yellowCardsData.filter(data =>
+      (data?.Player?.toLowerCase().includes(selectedValue?.player?.name?.toLowerCase())) &&
+      data?.Nationality?.toLowerCase().includes(selectedValue?.player?.nationality?.toLowerCase())
+    );
+    this.matchedRedCardsData = this.redCardsData.filter(data =>
+      (data?.Player?.toLowerCase().includes(selectedValue?.player?.name?.toLowerCase())) &&
+      data?.Nationality?.toLowerCase().includes(selectedValue?.player?.nationality?.toLowerCase())
+    );
+    this.cardsChartOptions = {
+      chart: {
+        caption: "Red Card vs Yellow Card",
+        subcaption: selectedValue?.player?.name,
+        enablesmartlabels: "1",
+        showlabels: "1",
+        showpercent: "1",
+        numbersuffix: " MMbbl",
+        usedataplotcolorforlabels: "1",
+        plottooltext: "$label, <b>$value</b>",
+        theme: "fusion"
+      },
+      data: [
+        {
+          label: "Red Card",
+          value: "0"
+        },
+        {
+          label: "Yellow Card",
+          value: "0"
+        }
+      ]
+    };
+    (this.cardsChartOptions as any)['data'][0]['value'] = this.matchedRedCardsData.reduce((total, item) => total + item.Stat, 0);
+    (this.cardsChartOptions as any)['data'][1]['value'] = this.matchedYellowCardsData.reduce((total, item) => total + item.Stat, 0);
   }
 
 }
