@@ -58,31 +58,31 @@ export class PlayerComponent implements OnInit {
 
   fusionChartObject = {
     column3d: {
-      width: '500',
+      width: '450',
       height: '400',
       type: "column3d",
       dataFormat: "json"
     },
     line: {
-      width: '500',
+      width: '450',
       height: '400',
       type: "line",
       dataFormat: "json"
     },
     pie3d: {
-      width: '500',
+      width: '450',
       height: '400',
       type: "pie3d",
       dataFormat: "json"
     },
     mssplinearea: {
-      width: '500',
+      width: '450',
       height: '400',
       type: "mssplinearea",
       dataFormat: "json"
     },
     doughnut3d: {
-      width: '500',
+      width: '450',
       height: '400',
       type: "doughnut3d",
       dataFormat: "json"
